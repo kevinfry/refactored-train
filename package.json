@@ -1,17 +1,20 @@
 {
   "dependencies": {
+    "startbootstrap-agency": "^7.0.12",
     "startbootstrap-bare": "^5.0.9",
     "startbootstrap-blog-home": "^5.0.9",
     "startbootstrap-blog-post": "^5.0.9",
     "startbootstrap-business-frontpage": "^5.0.9",
     "startbootstrap-full-width-pics": "^5.0.6",
     "startbootstrap-heroic-features": "^5.0.6",
+    "startbootstrap-portfolio-item": "^4.1.1",
     "startbootstrap-sb-admin": "^7.0.7",
     "startbootstrap-scrolling-nav": "^5.0.6",
     "startbootstrap-shop-homepage": "^5.0.6",
     "startbootstrap-shop-item": "^5.0.6",
     "startbootstrap-simple-sidebar": "^6.0.6",
     "startbootstrap-small-business": "^5.0.6",
-    "startbootstrap-the-big-picture": "^5.0.6"
+    "startbootstrap-the-big-picture": "^5.0.6",
+    "template-html": "^0.3.2"
   }
 }
